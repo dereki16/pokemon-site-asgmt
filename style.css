@@ -1,0 +1,38 @@
+.jumbotron {
+			background-color: lightblue;
+		}
+
+		body {
+			text-align: center;
+      justify-content: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-color: black;
+		}
+
+		.card {
+       height: 100%;
+			width: 80%;
+			margin: 0 auto;
+			/* centers a div container */
+		}
+
+    #bg{
+      height: 100%;
+    }
+		
+
+		#like {
+			margin-top: 5px;
+		}
+
+    #info{
+      text-align: left;
+    }
+
+    #align{
+      
+      justify-content: center;
+    }
+       
+    
